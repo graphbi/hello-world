@@ -1,2 +1,4 @@
 # hello-world
-test
+Hi humans!
+
+Now I can start with GIT.
